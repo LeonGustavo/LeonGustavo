@@ -1,13 +1,13 @@
 # Olá :smiley:
 
-## Meu nome é Gustavo Leon, sou Analista de Infraestrutura e estou me desenvolvendo em programação
+# Meu nome é Gustavo Leon, sou Analista de Infraestrutura e estou me desenvolvendo em programação
 
 
 
 **Atualmente**
 
 - Trabalho na implantação e migração de clientes cloud (on-premise/cloud)
-- Estudo a cultura devOps e suas ferramentas
+- Estudo a cultura devOps e suas ferramentas!
 
 **Perfil**
 
