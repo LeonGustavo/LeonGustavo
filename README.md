@@ -11,7 +11,7 @@
 
 **Perfil**
 
--  :office:   Atualmente trabalho na [TOTVS](https://www.totvs.com/)
+-  :office:
 
 - :school: Formado em Sistemas de Informação na [FIAP](https://www.fiap.com.br/)
 
